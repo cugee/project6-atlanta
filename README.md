@@ -20,6 +20,7 @@
 
 2) **프로젝트 구성 절차**
    - **발생형 핫스팟 분석 : 자연재해의 시공간패턴 확인**
+     
      * 자료 수집 (미 남동부 자연재해 데이터 - 산불, 허리케인 / county 경계 / 사회적 취약 지수)
      * Arcgis Pro 툴 사용 (Create Space Time Cube by Aggregating Points -> Emerging Hot Spot Analysis)
      * 최근 30년간 자연재해가 증가한 핫스팟 Grid 결과 추출 및 해석
